@@ -1,0 +1,1 @@
+There is no code to migrate. The `hello.ts` file is empty.
